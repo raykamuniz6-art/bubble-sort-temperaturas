@@ -71,7 +71,7 @@ bubble_sort.exe
 
 Projeto desenvolvido individualmente para a atividade avaliativa da disciplina Algoritmos e Pensamento Computacional.
 
-**Autora:** [Digite seu nome completo]
+**Autora:** Rayka Letícia Muniz dos Santos
 
 **Instituição:** Centro Universitário UDF
 
